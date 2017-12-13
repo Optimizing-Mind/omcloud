@@ -1,4 +1,4 @@
-# Optimizingmind Python Client Demo
+# Optimizing Mind Python Client Demo
 
 ## Run on Mybinder.org
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Optimizing-Mind/omcloud/master)
@@ -35,6 +35,6 @@ https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 #### Run Jupyter
 ```$ jupyter notebook```
 
-- A browser will popup, clicks on the optclient.ipynb link .
+- A browser will popup, click on the optclient.ipynb link .
 - On the notebook, enter the required parameters.
 - Run the cells.
