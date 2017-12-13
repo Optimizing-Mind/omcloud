@@ -1,0 +1,21 @@
+0.47589240202691985
+Score for part number #9, is 0.47589240202691985
+Network recommends rejection based on threshold 0.726
+With changes to the following factors the network would approve:
+#3 NL30CL from 20.00 to 33.16
+#4 DIFF10 from -9.80 to -24.46
+#2 NL30US from 0.00 to 17.23
+3 factors strengthening validation the most:
+1) #7 factor EQUITYISEE value 199.00 is above expected by 198.18
+2) #3 factor NL30CL value 20.00 is above expected by 16.45
+3) #8 factor INDEXISEE value 35.00 is above expected by 33.84 
+
+3 factors weakening validation the most:
+1) #6 factor ALLSECISEE value 139.00 is below expected by 141.31
+2) #2 factor NL30US value 0.00 is below expected by 2.71
+3) #1 factor NL5TF value -7.00 is below expected by 7.48
+
+
+Note that even though the scores of factors EQUITYISEE DIFF10 NL30US ALLSECISEE
+ are within the 3 most different scores from the expected they are not within the 3 most contributing or inhibiting because of model preference
+
