@@ -33,3 +33,6 @@ https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 - A browser will popup, clicks on the optclient.ipynb link .
 - On the notebook, enter the required parameters.
 - Run the cells.
+
+### Run on Mybinder.org
+[Click Here to run the notebook on mybinder.org](http://mybinder.org/repo/Optimizing-Mind/omcloud)
